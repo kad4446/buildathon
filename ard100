@@ -1,0 +1,36 @@
+Python value sent: 
+63
+Message from arduino: 
+Arduino received: 6
+Arduino sends: 1
+
+Arduino received: 63
+
+Python value sent: 
+63
+Message from arduino: 
+Arduino sends: 1
+
+Arduino received: 6363
+Arduino sends: 1
+
+
+Python value sent: 
+63
+Message from arduino: 
+Arduino received: 63636
+Arduino sends: 1
+
+Arduino received: 636363
+
+Python value sent: 
+63
+Message from arduino: 
+Arduino sends: 1
+
+Arduino received: 63636363
+Arduino sends: 1
+
+
+Exiting
+[Finished in 6.0s]
